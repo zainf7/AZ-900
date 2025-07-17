@@ -1,5 +1,5 @@
 # AZ-900
-My study notes and exam prep for the Microsoft AZ-900 certification
+My study notes and exam prep for the Microsoft AZ-900 certification - Passed Feb 2025
 
 # AZ-900: Microsoft Azure Fundamentals
 
