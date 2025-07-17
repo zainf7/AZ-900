@@ -14,11 +14,10 @@ I created this repo to document my learning, strengthen my understanding of core
 **AZ-900** is a fundamentals-level certification focused on foundational Azure cloud concepts and services.
 
 **Skills measured:**
-- Describe cloud concepts and principles
-- Describe core Azure services and solutions
-- Describe core Azure management and governance tools
-- Describe general security, privacy, compliance, and trust in Azure
-- Describe Azure pricing, SLA, and lifecycle basics
+-	Describe cloud concepts (25–30%)
+-	Describe Azure architecture and services (35–40%)
+-	Describe Azure management and governance (30–35%)
+
 
 [Official Exam Page](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
 
